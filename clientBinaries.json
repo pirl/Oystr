@@ -8,7 +8,7 @@
                         "download": {
                             "url": "http://release.pirl.io/downloads/pirl/darwin/1.0.1/pirl-darwin-10.6-amd64.tar.gz",		
                             "type": "tar",
-                            "md5": "5fc735b7803f8335119ebc04b1153283",
+                            "md5": "1723a7d4b8b50961bc244e526a3368b6",
                             "bin": "pirl"
                         },
                         "bin": "pirl-darwin-10.6-amd64",
