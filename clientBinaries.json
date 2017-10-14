@@ -47,7 +47,7 @@
                         }
                     }
                 },
-                "windows": {
+                "win": {
                     "x64": {
                         "download": {
                             "url": "http://release.pirl.io/downloads/pirl/windows/1.0.1/pirl-windows-4.0-amd64.exe.tar.gz",
