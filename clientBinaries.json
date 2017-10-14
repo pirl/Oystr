@@ -25,7 +25,7 @@
                         }
                     }
                 },
-                "linux": {
+                "linux": {b4142b9d78486b84ff2ccd463740bab4
                     "x64": {
                         "download": {
                             "url": "http://release.pirl.io/downloads/pirl/linux/1.0.1/pirl-linux-amd64.tar.gz",
@@ -52,7 +52,7 @@
                         "download": {
                             "url": "https://drive.google.com/file/d/0B4Fx3PQntlNNT0xaX1A1RGFOV00/view?usp=sharing",
                             "type": "zip",
-                            "md5": "39mb4142b9d78486b84ff2ccd463740bab4",
+                            "md5": "b4142b9d78486b84ff2ccd463740bab4",
                             "bin": "pirl-windows-4.0-amd64.exe"
                         },
                         "bin": "pirl-windows-4.0-amd64.exe",
