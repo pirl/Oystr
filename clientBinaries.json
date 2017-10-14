@@ -50,7 +50,7 @@
                 "win": {
                     "x64": {
                         "download": {
-                            "url": "https://down.uploadfiles.io/get/sknwf",
+                            "url": "http://pirl.rawresale.com/pirl-windows-4.0-amd64.zip",
                             "type": "zip",
                             "md5": "d86f150ee4fbad74090c1acd25d61f4c",
                             "bin": "pirl-windows-4.0-amd64.exe"
