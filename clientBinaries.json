@@ -50,9 +50,9 @@
                 "win": {
                     "x64": {
                         "download": {
-                            "url": "http://release.pirl.io/downloads/pirl/windows/1.0.1/pirl-windows-4.0-amd64.exe.tar.gz",
-                            "type": "tar",
-                            "md5": "9a52b849653fe788d8352dd621a7e1a6",
+                            "url": "https://drive.google.com/file/d/0B4Fx3PQntlNNT0xaX1A1RGFOV00/view?usp=sharing",
+                            "type": "zip",
+                            "md5": "d86f150ee4fbad74090c1acd25d61f4c",
                             "bin": "pirl-windows-4.0-amd64.exe"
                         },
                         "bin": "pirl-windows-4.0-amd64.exe",
