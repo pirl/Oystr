@@ -6,7 +6,7 @@
                 "mac": {
                     "darwin-x64": {
                         "download": {
-                            "url": "http://release.pirl.io/darwin/pirl.tar.gz",		
+                            "url": "http://release.pirl.io/downloads/pirl/darwin/1.0.1/pirl-darwin-10.6-amd64.tar.gz",		
                             "type": "tar",
                             "md5": "5fc735b7803f8335119ebc04b1153283",
                             "bin": "pirl"
