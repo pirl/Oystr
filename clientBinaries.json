@@ -11,7 +11,7 @@
                             "md5": "b75c0d8f7c9135a00117132893a4448d",
                             "bin": "pirl-darwin-10.6-amd64"
                         },
-                        "bin": "pirl-darwin-10.6-amd64",
+                        "bin": "pirl",
                         "commands": {
                             "sanity": {
                                 "args": [
