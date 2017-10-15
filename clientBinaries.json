@@ -6,7 +6,7 @@
                 "mac": {
                     "x64": {
                         "download": {
-                            "url": "https://drive.google.com/file/d/0B9amNBz2NcUNSXUzQldKRFR6NkU/view?usp=sharing",		
+                            "url": "https://drive.google.com/uc?authuser=0&id=0B9amNBz2NcUNSXUzQldKRFR6NkU&export=download",		
                             "type": "tar",
                             "md5": "1723a7d4b8b50961bc244e526a3368b6",
                             "bin": "pirl-darwin-10.6-amd64"
