@@ -33,7 +33,7 @@
                             "md5": "582cb8b9c323baf074c9bc510c0eb4da",
                             "bin": "pirl-linux-amd64/pirl"
                         },
-                        "bin": "pirl-linux-amd64",
+                        "bin": "pirl",
                         "commands": {
                             "sanity": {
                                 "args": [
