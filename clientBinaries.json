@@ -50,12 +50,12 @@
                 "win": {
                     "x64": {
                         "download": {
-                            "url": "http://pirl.rawresale.com/pirl-windows-4.0-amd64.zip",
+                            "url": "http://release.pirl.io/downloads/pirl/windows/1.0.1/pirl-windows-amd64.zip",
                             "type": "zip",
-                            "md5": "d86f150ee4fbad74090c1acd25d61f4c",
-                            "bin": "pirl-windows-4.0-amd64.exe"
+                            "md5": "14aa8a2dd95c863548f243d98b06b7b1",
+                            "bin": "pirl.exe"
                         },
-                        "bin": "pirl-windows-4.0-amd64.exe",
+                        "bin": "pirl-windows-amd64\\pirl.exe",
                         "commands": {
                             "sanity": {
                                 "args": [
