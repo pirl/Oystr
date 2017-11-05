@@ -52,10 +52,10 @@
                         "download": {
                             "url": "http://release.pirl.io/downloads/pirl/windows/1.0.1/pirl-windows-amd64.zip",
                             "type": "zip",
-                            "md5": "9b0ad0feb28775b48a9813fe81ade6a5",
-                            "bin": "pirl.exe"
+                            "md5": "eb84e0f95b1be42639f226699255caa2",
+                            "bin": "pirl-windows-amd64\\pirl.exe"
                         },
-                        "bin": "pirl-windows-amd64\\pirl.exe",
+                        "bin": "pirl.exe",
                         "commands": {
                             "sanity": {
                                 "args": [
