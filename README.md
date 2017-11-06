@@ -25,7 +25,8 @@ Placeholder
 ## Continuous integration
 Placeholder
 
-## Contributions are always welcome feel free to make a pull request with additional features or help to close open issues.
+## Contributions 
+Contributions are always welcome feel free to make a pull request with additional features or help to close open issues.
 
 ## Bug Reporting & Feature Requests
 A template for reporting a bug is provided please use it when creating a issue on git hub.
