@@ -1,3 +1,6 @@
+# THIS REPO OF PIRL IS DEPRECIATED, WE HAVE MOVED TO NPOS PROTOCOL
+
+
 # Oystr
 
 Please note that this repository is the Electron host for the Meteor based wallet dapp whose repository is located here: https://github.com/pirl/Oystr-Wallet-dApp
